@@ -14,4 +14,22 @@
 - Production Awin Short Link: https://tidd.ly/3BgkD6l
 
 - Production Awin Long Link: https://www.awin1.com/cread.php?awinmid=87017&awinaffid=45628&ued=https%3A%2F%2Fawin.printicular.com
-- 
+
+
+---
+
+## AWIN with Redirection (Production)
+- https://tidd.ly/3BgkD6l
+- https://www.awin1.com/cread.php?awinmid=87017&awinaffid=45628&ued=https%3A%2F%2Fawin.printicular.com
+
+## AWIN with Redirection (Staging)
+- https://tidd.ly/3MXezlQ
+- https://www.awin1.com/cread.php?awinmid=87017&awinaffid=45628&ued=https%3A%2F%2Fstaging.awin.printicular.com
+
+## AWIN with Universal Link (Production)
+- https://tidd.ly/4eikyOj
+- https://www.awin1.com/cread.php?awinmid=87017&awinaffid=45628&ued=https%3A%2F%2Fawin.printicular.com%2Fhello
+
+## AWIN with Universal Link (Staging)
+- https://tidd.ly/3XHQKUc
+- https://www.awin1.com/cread.php?awinmid=87017&awinaffid=45628&ued=https%3A%2F%2Fstaging.awin.printicular.com%2Fhello 
