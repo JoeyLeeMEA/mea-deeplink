@@ -33,3 +33,9 @@
 ## AWIN with Universal Link (Staging)
 - https://tidd.ly/3XHQKUc
 - https://www.awin1.com/cread.php?awinmid=87017&awinaffid=45628&ued=https%3A%2F%2Fstaging.awin.printicular.com%2Fhello 
+
+---
+
+- Currently testing (new): https://awin.printicular.com/?source=aw&sv1=affiliate&sv_campaign_id=1640367&awc=87017_1731552056_cc06effffddd7aa0d5b921066d0745d5
+- Old link: https://tidd.ly/3U8GPG4
+- 
