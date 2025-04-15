@@ -43,9 +43,11 @@
 
 # PrintYum
 
-https://printyumtest.onelink.me/sxLn/appclipstest
+- https://printyumtest.onelink.me/sxLn/appclipstest
 
-https://printyumtest.onelink.me/sxLn?af_xp=custom&pid=Custom-PrintYum-Test&c=PrintYum%20App%20Clips%20Test&deep_link_value=printyum_deep_link_value_01&deep_link_sub1=printyum_additional_deep_link_value_01
+- https://printyumtest.onelink.me/sxLn?af_xp=custom&pid=Custom-PrintYum-Test&c=PrintYum%20App%20Clips%20Test&deep_link_value=printyum_deep_link_value_01&deep_link_sub1=printyum_additional_deep_link_value_01
+
+- https://printyumtest.onelink.me/sxLn
 
 ---
 
