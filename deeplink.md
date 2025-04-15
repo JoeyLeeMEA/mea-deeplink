@@ -49,6 +49,8 @@
 
 - https://printyumtest.onelink.me/sxLn
 
+- https://appclip.apple.com/id?p=com.meamobile.printyum.Clip
+- 
 ---
 
 
