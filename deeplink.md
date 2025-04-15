@@ -52,7 +52,11 @@
 - https://printyumtest.onelink.me
 
 - https://appclip.apple.com/id?p=com.meamobile.printyum.Clip
-- 
+
+- https://app.printyum.com
+
+- https://app.printyum.com/appclip
+  
 ---
 
 
