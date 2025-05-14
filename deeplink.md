@@ -53,6 +53,8 @@
 
 - https://appclip.apple.com/id?p=com.meamobile.printyum.Clip
 
+- https://appclip.apple.com/id?p=com.meamobile.printyum.Clip&deep_link_value=printyum_deep_link_value_02&deep_link_sub1=printyum_additional_deep_link_value_02
+
 - https://app.printyum.com
 
 - https://app.printyum.com/appclip
